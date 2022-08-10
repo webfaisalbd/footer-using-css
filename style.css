@@ -34,3 +34,9 @@ footer {
     flex-basis: 25%;
     padding: 10px;
 }
+
+.col h3 {
+    width: fit-content;
+    margin-bottom: 50px;
+    position: relative;
+}
