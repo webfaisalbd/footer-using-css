@@ -29,3 +29,8 @@ footer {
     align-items: flex-start;
     justify-content: space-between;
 }
+
+.col {
+    flex-basis: 25%;
+    padding: 10px;
+}
