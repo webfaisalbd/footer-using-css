@@ -35,6 +35,13 @@ footer {
     padding: 10px;
 }
 
+
+.col:nth-child(2), .col:nth-child(3){
+    flex-basis: 15%;
+}
+
+
+
 .col h3 {
     width: fit-content;
     margin-bottom: 50px;
