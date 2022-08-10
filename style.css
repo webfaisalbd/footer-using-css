@@ -40,3 +40,9 @@ footer {
     margin-bottom: 50px;
     position: relative;
 }
+
+.email-id {
+    width: fit-content;
+    border-bottom: 1px solid #ccc;
+    margin: 20px 0;
+}
