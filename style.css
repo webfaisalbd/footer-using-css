@@ -110,3 +110,8 @@ hr {
     border-bottom: 1px solid #ccc;
     margin-bottom: 20px auto;
 }
+
+.copyright {
+    text-align: center;
+}
+
